@@ -1,1 +1,11 @@
-# task---5-OUTPUT
+Product Name,Price,Rating
+"Wireless Bluetooth Headphones", "$49.99", "4.5 stars"
+"Smartphone Case for iPhone 12", "$15.99", "4.7 stars"
+"LED Desk Lamp with USB Charging", "$29.99", "4.3 stars"
+"Portable Power Bank 10000mAh", "$25.00", "4.6 stars"
+"Electric Toothbrush with 2 Brush Heads", "$19.99", "4.8 stars"
+"4K Ultra HD Webcam", "$89.99", "4.2 stars"
+"Noise Cancelling Earbuds", "$39.99", "4.4 stars"
+"Fitness Tracker Watch", "$59.99", "4.6 stars"
+"Gaming Mouse with RGB Lighting", "$29.99", "4.7 stars"
+"Smart WiFi Plug", "$12.99", "4.1 stars"
